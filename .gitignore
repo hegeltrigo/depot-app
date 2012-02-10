@@ -1,0 +1,7 @@
+log/*
+config/database.yml
+.idea/*
+db/schema.rb
+.DS_Store
+tmp/*
+public/assets/*
